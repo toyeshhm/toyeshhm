@@ -2,7 +2,7 @@
 
 cs @ ut turing scholars · building at the frontier of ai
 
-focused on making ai actually useful — in tech, finance, and wherever else it shouldn't work yet.
+focused on making ai actually useful - in tech, finance, and wherever else it shouldn't work yet.
 
 ---
 
