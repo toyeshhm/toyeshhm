@@ -1,16 +1,33 @@
-## Hi there 👋
+# toyeshh medikonda
 
-<!--
-**toyeshhm/toyeshhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs @ ut turing scholars · building at the frontier of ai
 
-Here are some ideas to get you started:
+focused on making ai actually useful — in tech, finance, and wherever else it shouldn't work yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### what i'm working on
+
+| project | description |
+|---|---|
+| [Toyeshh.com](https://toyeshh.com) | personal website |
+
+
+---
+
+### background
+
+- **ml research** @ Non-Trivial (quantum convulutional neural network for early-stage crop disease detection)
+- **technical engineer** @ ultra yc w24, scaling app to 10k+ users
+- **cofounder** @ wearitforward raising $200k+ in clothing donations and featured on fox News
+- **m3 math modeling challenge finalist** $5500 + presented @ jane street
+
+---
+
+### stack
+
+python · typescript · c++ · java · pytorch · tensorflow · aws 
+
+---
+
+[site](https://toyeshh.com) · [linkedin](https://www.linkedin.com/in/toyeshh-medikonda/) · toyeshh@utexas.edu
