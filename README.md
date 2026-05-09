@@ -17,7 +17,7 @@ focused on making ai actually useful - in tech, finance, and wherever else it sh
 
 ### background
 
-- **ml research** @ Non-Trivial (quantum convulutional neural network for early-stage crop disease detection)
+- **ml research** @ Non-Trivial (qcnn for early-stage crop disease detection)
 - **technical engineer** @ ultra yc w24, scaling app to 10k+ users
 - **cofounder** @ wearitforward raising $200k+ in clothing donations and featured on fox News
 - **m3 math modeling challenge finalist** $5500 + presented @ jane street
