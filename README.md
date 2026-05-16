@@ -26,7 +26,7 @@ focused on making ai actually useful - in tech, finance, and wherever else it sh
 
 ### stack
 
-python · typescript · c++ · java · pytorch · tensorflow · aws 
+java · python · c++ · javascript · typescript · html · css · pytorch · tensorflow · aws 
 
 ---
 
