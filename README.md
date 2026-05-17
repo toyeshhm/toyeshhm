@@ -11,6 +11,7 @@ focused on making ai actually useful - in tech, finance, and wherever else it sh
 | project | description |
 |---|---|
 | [Toyeshh.com](https://toyeshh.com) | personal website |
+| [Probe] | stealth startup |
 
 
 ---
