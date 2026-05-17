@@ -24,7 +24,7 @@ focused on making ai actually useful - in tech, finance, trades and wherever els
 
 ### achievements
 - **m3 math modeling challenge finalist** $5500 + presented @ jane street
-- **usaco Platinum**
+- **usaco platinum**
 
 ---
 
