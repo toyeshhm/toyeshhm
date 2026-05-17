@@ -22,7 +22,7 @@ focused on making ai actually useful - in tech, finance, trades and wherever els
 - **technical engineer** @ ultra yc w24, scaling app to 10k+ users
 - **cofounder** @ wearitforward raising $200k+ in clothing donations and featured on fox News
 
-### background
+### achievements
 - **m3 math modeling challenge finalist** $5500 + presented @ jane street
 - **USACO Platinum**
 
