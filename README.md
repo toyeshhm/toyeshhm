@@ -11,6 +11,8 @@ focused on making ai actually useful - in tech, finance, trades and wherever els
 | project | description |
 |---|---|
 | [Toyeshh.com](https://toyeshh.com) | personal website |
+| FindFree | freebie search |
+| StudyAtlas | study spot finder |
 | Probe | stealth startup |
 
 
