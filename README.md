@@ -7,13 +7,11 @@ focused on making ai actually useful - in tech, finance, trades and everywhere e
 ---
 
 ### what i'm working on
-
+Regent — Autonomous agent that builds and ships entire products end-to-end.	
 | project | description |
 |---|---|
 | [Toyeshh.com](https://toyeshh.com) | personal website |
-| FindFree | freebie search |
-| StudyAtlas | study spot finder |
-| Probe | stealth startup |
+| Regent | stealth startup |
 
 
 ---
