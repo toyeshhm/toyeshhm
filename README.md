@@ -1,4 +1,4 @@
-a# toyeshh medikonda
+# toyeshh medikonda
 
 cs @ ut turing scholars · building at the frontier of ai
 
