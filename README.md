@@ -13,7 +13,8 @@ focused on making ai actually useful - in tech, finance, trades and everywhere e
 | [Toyeshh.com](https://toyeshh.com) | personal website |
 | Probe | Autonomous agents |
 | Changeling | leetcode imposter |
-| Democracy | irl posthog |
+| Democracy | cctv data analysis |
+| onote | second brain |
 
 
 ---
