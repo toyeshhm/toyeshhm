@@ -12,6 +12,8 @@ focused on making ai actually useful - in tech, finance, trades and everywhere e
 |---|---|
 | [Toyeshh.com](https://toyeshh.com) | personal website |
 | Regent | Autonomous agents |
+| Changeling | leetcode imposter |
+| Democracy | irl posthog |
 
 
 ---
