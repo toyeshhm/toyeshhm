@@ -1,4 +1,4 @@
-# toyeshh medikonda
+a# toyeshh medikonda
 
 cs @ ut turing scholars · building at the frontier of ai
 
@@ -11,7 +11,7 @@ focused on making ai actually useful - in tech, finance, trades and everywhere e
 | project | description |
 |---|---|
 | [Toyeshh.com](https://toyeshh.com) | personal website |
-| Probe | Autonomous agents |
+| Probe | autonomous agents |
 | Leetposter | leetcode imposter |
 | Democracy | cctv data analysis |
 | Onote | second brain |
